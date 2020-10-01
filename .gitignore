@@ -1,0 +1,9 @@
+.idea/
+node_modules
+/node_modules
+package-lock.json
+src/utils/api/auth/index.js
+src/utils/api/index.js
+.env
+build
+
